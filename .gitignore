@@ -112,3 +112,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+archive.zip
+train.csv
+test.csv
+amazon_review_polarity_csv.tgz
